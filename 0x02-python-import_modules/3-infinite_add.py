@@ -7,5 +7,3 @@ if __name__ == "__main__":
             result += (int(sys.argv[i]))
     print("{:d}".format(result))
 
-# import sys
-# print("{:d}".format(sum(int(n) for n in sys.argv[1:])))
